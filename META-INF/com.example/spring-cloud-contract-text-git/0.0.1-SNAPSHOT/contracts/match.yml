@@ -18,3 +18,11 @@ response:
         score: 0.8
       - oid: adki47
         score: 0.75
+      - oid: akb48
+        score: 0.9
+      - oid: akb49
+        score: 1.0
+      - oid: akb50
+        score: 1.0
+      - oid: akb51
+        score: 1.1

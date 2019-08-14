@@ -1,5 +1,5 @@
 {
-  "id" : "759daedc-eafe-4714-951b-e0eebdfc98cd",
+  "id" : "17912747-b9d4-4784-8a48-3fcc17f22d0d",
   "request" : {
     "url" : "/v1/objects/match",
     "method" : "POST",
@@ -21,8 +21,8 @@
   },
   "response" : {
     "status" : 200,
-    "body" : "{\"pids\":[{\"score\":0.8,\"oid\":\"adki46\"},{\"score\":0.75,\"oid\":\"adki47\"}]}",
+    "body" : "{\"pids\":[{\"score\":0.8,\"oid\":\"adki46\"},{\"score\":0.75,\"oid\":\"adki47\"},{\"score\":0.9,\"oid\":\"akb48\"},{\"score\":1,\"oid\":\"akb49\"},{\"score\":1,\"oid\":\"akb50\"},{\"score\":1.1,\"oid\":\"akb51\"}]}",
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "759daedc-eafe-4714-951b-e0eebdfc98cd"
+  "uuid" : "17912747-b9d4-4784-8a48-3fcc17f22d0d"
 }
