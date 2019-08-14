@@ -1,5 +1,5 @@
 {
-  "id" : "b3a856ba-2412-4728-ac1b-a60436dc3931",
+  "id" : "0028f4ce-8401-4ff3-b824-c2f62d17efad",
   "request" : {
     "url" : "/v1/objects/match",
     "method" : "POST",
@@ -21,8 +21,8 @@
   },
   "response" : {
     "status" : 200,
-    "body" : "{\"pids\":[{\"score\":0.8,\"oid\":\"adki46\"},{\"score\":0.75,\"oid\":\"adki47\"},{\"score\":0.9,\"oid\":\"akb48\"},{\"score\":1,\"oid\":\"akb49\"}]}",
+    "body" : "{\"pids\":[{\"score\":0.8,\"oid\":\"adki46\"},{\"score\":0.75,\"oid\":\"adki47\"},{\"score\":0.9,\"oid\":\"akb48\"},{\"score\":1,\"oid\":\"akb49\"},{\"score\":1,\"oid\":\"akb50\"},{\"score\":1.1,\"oid\":\"akb51\"}]}",
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "b3a856ba-2412-4728-ac1b-a60436dc3931"
+  "uuid" : "0028f4ce-8401-4ff3-b824-c2f62d17efad"
 }
